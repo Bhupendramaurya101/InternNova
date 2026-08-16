@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.container {
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+}
+.title {
+    width: 80%;
+    height: 100px;
+    margin: 20px auto;
+    /* padding: 20px; */
+    /* border: 2px solid #333; */
+    border-radius: 10px;
+    text-align: center;
+}
+.intro {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #777;
+    border-radius: 8px;
+}
+.course {
+    width: 30%;
+    min-height: 180px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(218, 218, 218, 0.345);
+}
+.Departments {
+    width: 80%;
+    min-height: 140px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #666;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(218, 218, 218, 0.345);
+}
+
+.facilities {
+    width: 80%;
+    min-height: 130px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #666;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(218, 218, 218, 0.345);
+}
+.article {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+
+a{
+    color: #bbbbbb;
+}
+
+

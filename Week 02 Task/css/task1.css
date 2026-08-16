@@ -1,0 +1,50 @@
+* {
+    /* padding: 0%;
+    margin: 0%; */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #1e3a8a;
+    text-align: center;
+    font-size: 36px;
+}
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.intro {
+    font-size: 18px;
+    color: #444;
+    text-align: justify;
+}
+#about-college {
+    color: #166534;
+    font-size: 28px;
+}
+
+h3, h4, h5 {
+    color: #374151;
+    font-family: Georgia, serif;
+}
+h3 {
+    background-color: #dbeafe;
+    padding: 10px;
+}
+strong {
+    color: #dc2626;
+    font-weight: bold;
+}
+i {
+    color: #7c3aed;
+}
+
+u {
+    color: #0369a1;
+}
